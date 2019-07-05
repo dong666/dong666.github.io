@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.7tiny.com/about/index.html</loc>
+    
+    <lastmod>2019-07-05T14:46:03.912Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.7tiny.com/201903210000/</loc>
     
     <lastmod>2019-07-05T14:12:06.908Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://www.7tiny.com/201808160000/</loc>
     
     <lastmod>2019-07-05T13:32:01.133Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.7tiny.com/201712020000/</loc>
-    
-    <lastmod>2019-07-05T13:32:01.132Z</lastmod>
     
   </url>
   
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://www.7tiny.com/201712170000/</loc>
+    <loc>http://www.7tiny.com/201712020000/</loc>
     
     <lastmod>2019-07-05T13:32:01.132Z</lastmod>
     
@@ -72,6 +72,20 @@
   </url>
   
   <url>
+    <loc>http://www.7tiny.com/201712170000/</loc>
+    
+    <lastmod>2019-07-05T13:32:01.132Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.7tiny.com/201711090000/</loc>
+    
+    <lastmod>2019-07-05T13:32:01.131Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.7tiny.com/201709252020/</loc>
     
     <lastmod>2019-07-05T13:32:01.131Z</lastmod>
@@ -80,13 +94,6 @@
   
   <url>
     <loc>http://www.7tiny.com/201711150000/</loc>
-    
-    <lastmod>2019-07-05T13:32:01.131Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.7tiny.com/201711090000/</loc>
     
     <lastmod>2019-07-05T13:32:01.131Z</lastmod>
     
@@ -205,14 +212,7 @@
   </url>
   
   <url>
-    <loc>http://www.7tiny.com/201707070000/</loc>
-    
-    <lastmod>2019-07-05T13:32:01.129Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.7tiny.com/201707020000/</loc>
+    <loc>http://www.7tiny.com/201707040000/</loc>
     
     <lastmod>2019-07-05T13:32:01.129Z</lastmod>
     
@@ -240,7 +240,14 @@
   </url>
   
   <url>
-    <loc>http://www.7tiny.com/201707040000/</loc>
+    <loc>http://www.7tiny.com/201707020000/</loc>
+    
+    <lastmod>2019-07-05T13:32:01.129Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.7tiny.com/201707070000/</loc>
     
     <lastmod>2019-07-05T13:32:01.129Z</lastmod>
     
@@ -254,14 +261,14 @@
   </url>
   
   <url>
-    <loc>http://www.7tiny.com/201703170000/</loc>
+    <loc>http://www.7tiny.com/201703070000/</loc>
     
     <lastmod>2019-07-05T13:32:01.128Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.7tiny.com/201703070000/</loc>
+    <loc>http://www.7tiny.com/201703170000/</loc>
     
     <lastmod>2019-07-05T13:32:01.128Z</lastmod>
     
@@ -443,13 +450,6 @@
   </url>
   
   <url>
-    <loc>http://www.7tiny.com/201503060000/</loc>
-    
-    <lastmod>2019-07-05T13:32:01.124Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.7tiny.com/201504010000/</loc>
     
     <lastmod>2019-07-05T13:32:01.124Z</lastmod>
@@ -479,6 +479,13 @@
   
   <url>
     <loc>http://www.7tiny.com/201405040000/</loc>
+    
+    <lastmod>2019-07-05T13:32:01.124Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.7tiny.com/201503060000/</loc>
     
     <lastmod>2019-07-05T13:32:01.124Z</lastmod>
     
@@ -530,13 +537,6 @@
     <loc>http://www.7tiny.com/categories/index.html</loc>
     
     <lastmod>2019-06-30T10:42:29.204Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.7tiny.com/about/index.html</loc>
-    
-    <lastmod>2019-06-30T10:42:29.203Z</lastmod>
     
   </url>
   
